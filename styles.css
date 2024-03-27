@@ -1,0 +1,17 @@
+header{
+      background-color: violet;
+      text-align: center;
+      padding: 15px;
+      border-radius: 15px;
+}
+body{
+     color: chocolate;
+     background-image:linear-gradient(to right);
+     font-family: sans-serif;
+     font-size: 20px;
+}
+footer{
+     text-align: center;
+
+
+}
