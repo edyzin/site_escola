@@ -1,12 +1,7 @@
 header{
-      background-color: rgba(63, 196, 22, 0.61);
+      background-color: rgba(237, 96, 9, 0.61);
       text-align: center;
-      padding: 15px;
-      border-radius: 15px;
+      padding: 100px;
+      border-radius: 100px;
 }
-body{
-      color: rgb(3, 2, 1)
-      background-image:linear-gradient(to right);
-      font-family: sans-serif;
-      font-size: 20px;
-}
+
